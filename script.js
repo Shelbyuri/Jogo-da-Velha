@@ -1,3 +1,5 @@
-function play(cell){
-    cell.innerText = "x"
+let player = "x"
+
+function play(cell){ 
+    cell.innerText = player
 }
