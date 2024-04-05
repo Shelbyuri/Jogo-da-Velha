@@ -8,6 +8,8 @@ td{
 }
 table {
     margin : auto;
+    cursor: pointer;
+    
 }
 h1{
     text-align: center;
