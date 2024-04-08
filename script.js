@@ -18,3 +18,6 @@ function play(index){
 
     player=player=="x"?"o":"x"
 }
+    function reloadPage() {
+    location.reload();
+  }

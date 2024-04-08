@@ -20,5 +20,11 @@ td:hover{
 button{
     background-color: green;
     font-size: 10px;
-    height: 3em 3em;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient( to right, rgb(0, 92, 128), rgb(0, 255, 234)) 
 }
